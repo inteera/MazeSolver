@@ -19,8 +19,3 @@ The maze can be any size as long as it follows two rules:
   - Full coordinate path  
   - Visual, formatted path representation  
 - ✔ Clean, object-oriented structure (`Point`, path tracking, validation methods)
-
----
-
-## 📂 Project Structure
-
