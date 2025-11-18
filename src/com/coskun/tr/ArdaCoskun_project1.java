@@ -1,4 +1,4 @@
-package com.coskun.tr.projects.mazeproj;
+package com.coskun.tr;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
