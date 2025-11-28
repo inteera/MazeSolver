@@ -18,4 +18,4 @@ The maze can be any size as long as it follows two rules:
 - ✔ Outputs:
   - Full coordinate path  
   - Visual, formatted path representation  
-- ✔ Clean, object-oriented structure (`Point`, path tracking, validation methods)
+- ✔ Clean, object-oriented structure (`elements.Point`, path tracking, validation methods)
