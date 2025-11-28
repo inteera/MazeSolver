@@ -13,9 +13,8 @@ The maze can be any size as long as it follows two rules:
 
 - ✔ Reads maze from an external text file  
 - ✔ Works on **any maze layout** fitting the entrance/exit rules  
-- ✔ Uses **DFS (Depth-First Search)** with backtracking  
+- ✔ Uses **Breath First Search (BFS)**  
 - ✔ Prevents revisiting nodes  
 - ✔ Outputs:
-  - Full coordinate path  
-  - Visual, formatted path representation  
-- ✔ Clean, object-oriented structure (`elements.Point`, path tracking, validation methods)
+  - Full coordinate path
+- ✔ Clean, object-oriented structure
